@@ -1,2 +1,3 @@
 test1 MYB-1
-test1 MYB-2 (fix)
+test2 MYB-2 (fix)
+test3 MYB-3 (bug)
